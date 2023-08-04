@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin:0px;
+    padding: 0px;
+    background-color: brown;
+}
+#pas1{
+    background-color: black;
+    margin: 50px;
+    padding: 40px;
+}
+
+#ps2{ 
+    margin: 50px;
+    padding: 50px;
+    background-color: aqua;
+}
+#ps3{
+    background-color: orange;
+    margin: 50px;
+    padding: 50px;
+}
